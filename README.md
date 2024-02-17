@@ -1,4 +1,5 @@
 # Isa_Alnoaimi_Portfolio
+Welcome to my project portfolio! I am an Industrial Engineering student and an aspiring Data Analyst who seeks to continously learn and grow. 
 ## Excel Projects
 As a Portfolio Risk Manager in the TradeQuest Competition, I employed risk managment strategies using Excel in an investment portfolio mitigate risks and attain the maximum returns. 
 ### Portfolio Risk Management - Monte Carlo Simulation
