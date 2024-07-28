@@ -13,10 +13,8 @@ The Monte Carlo Simulation was utilized to mathematically set stop losses and ta
 The weights of the selected stocks in the portfolio were optimized by using historical data and statisitcal tools. By determining the optimal weights of the stocks using the solver feature in Excel, the standard deviation (risk) was minimzed and the expected return and sharpe ratio of the portfolio were maximized. To further prove that the portfolio was optimized, random weights were assigned to each stock in the portfolio 10,000 times. Next, the portfolios' respective standard deviations and expected returns were calculated. Finally, an efficient frontier was constructed to visualize the 10,000 portfolios risk to reward possibilites. 
 
 <p align="center">
-  <img style="float: right;" alt="" src="https://github.com/user-attachments/assets/4cfa7ee8-1869-4a12-a20d-a0a3249947e9" width="25%">
+  <img src="https://github.com/user-attachments/assets/4cfa7ee8-1869-4a12-a20d-a0a3249947e9" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-	<div style="clear: right">
-		</div>
   <img src="https://github.com/user-attachments/assets/c1590f3d-7511-409e-ab21-88f960b3bf0b425" width="38%">
 </p>
 
