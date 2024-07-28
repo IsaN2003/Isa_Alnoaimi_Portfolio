@@ -9,7 +9,8 @@ In the second project, I optimized the weights of the selected stocks in the por
 
 
 ![Screenshot 2024-07-28 133226](https://github.com/user-attachments/assets/fba25568-a8d3-48ba-a3f0-c1b67f5bbba2)
-![Screenshot 2024-07-28 132219](https://github.com/user-attachments/assets/efc71cae-924a-4ba1-9c0e-1482e9ca820e)
+![Screenshot 2024-07-28 133359](https://github.com/user-attachments/assets/9ef6fced-b50f-4bee-91cf-17b60f9b222e)
+
 
 
 ### Queueing System Simulation
