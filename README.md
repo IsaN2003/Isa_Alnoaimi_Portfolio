@@ -15,7 +15,6 @@ In the second project, I optimized the weights of the selected stocks in the por
 <div align="left">
 	<img src="https://github.com/user-attachments/assets/eb76222a-2104-450b-a16b-daeee424c341">
 </div>
-
 <div align="right">
 	<img src="https://github.com/user-attachments/assets/82feaba4-3465-4e20-9bad-96e7610bc569">
 </div>
