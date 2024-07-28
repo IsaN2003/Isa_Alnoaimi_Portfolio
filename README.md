@@ -8,7 +8,7 @@ In the first project, I utilized the Monte Carlo Simulation to mathematically se
 In the second project, I optimized the weights of the selected stocks in the portfolio by using historical data and statisitcal tools. By determining the optimal weights of the stocks using the solver feature in Excel, the standard deviation (risk) was minimzed and the expected return and sharpe ratio of the portfolio were maximized. To further prove that the portfolio was optimized, random weights were assigned to each stock in the portfolio 10,000 times. Next, the portfolios' respective standard deviations and expected returns were calculated. Finally, an efficient frontier was constructed to visualize the 10,000 portfolios risk to reward possibilites. 
 
 
-![Screenshot 2024-07-28 133226](https://github.com/user-attachments/assets/fba25568-a8d3-48ba-a3f0-c1b67f5bbba2)
+![Screenshot 2024-07-28 133629](https://github.com/user-attachments/assets/b0fbdf22-47d8-4a70-9821-ce0efeb29244)
 ![Screenshot 2024-07-28 133359](https://github.com/user-attachments/assets/9ef6fced-b50f-4bee-91cf-17b60f9b222e)
 
 
