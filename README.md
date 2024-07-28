@@ -16,10 +16,6 @@ The weights of the selected stocks in the portfolio were optimized by using hist
 
 
 
-### Queueing System Simulation
-A queueing system simulation was created to determine the customer flow in a supermarket's self-checkout, cashier, and a neighboring coffee shop. This was achieved by collecting raw data from the queueing systems, cleaning the data, processing the data, computing the calculations of the queues' parameters, constructing a Monte Carlo Simulation to analyze the queues, and visually demonstrating the analyzed data. On the one hand, the analysis revealed that as the arrival rate of the customers increased, the utilization rate, number of customers in the queue, number of customers in the system, the number of customers waiting in the queue, and the number of customers waiting in the system also increased. However, the idle time of the queueing systems decreased. On the other hand, the analysis also revealed that as the service rate of the customers increased, the idle time of the queueing systems  increased. However, the utilization rate, number of customers in the queue, number of customers in the system, the number of customers waiting in the queue, and the number of customers waiting in the system decreased.  
-
-
 ## Python Projects
 ### Quality Control Chart
 A statisitical analysis was conducted on a SME construction company which faced an issue with their five-day concrete drying process. To identify the issue behind this process, a quality control chart was employed to provide a visual representation of the variation within the system by identifying the control limits of the data. It was concluded that when the weather was at its highest during the year, the concrete developed the greatest number of cracks. Furthermore, due to the human error caused by the system's lack of instruction to the laborers in the concrete drying process, the number of cracks on the concrete increased; hence, increasing the overall costs of the projects. 
