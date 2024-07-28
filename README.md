@@ -9,7 +9,7 @@ In the second project, I optimized the weights of the selected stocks in the por
 
 
 ![Screenshot 2024-07-28 133629](https://github.com/user-attachments/assets/b0fbdf22-47d8-4a70-9821-ce0efeb29244)
-![Screenshot 2024-07-28 134523](https://github.com/user-attachments/assets/2735349e-74d1-466e-a33e-06dccdd3b0ff)
+![Screenshot 2024-07-28 134555](https://github.com/user-attachments/assets/3623c108-8694-430a-8452-6a6957e2b7f1)
 
 
 
