@@ -2,7 +2,7 @@
 Welcome to my project portfolio! I am an Industrial Engineering student and an aspiring Data Analyst who seeks to continously learn and grow. 
 ## Excel Projects
 As a Portfolio Risk Manager in the TradeQuest Competition, I employed risk managment strategies using Excel in an investment portfolio to mitigate risks and attain the maximum returns. 
-### [Portfolio Risk Management - Monte Carlo Simulation] (https://github.com/IsaN2003/Isa_Alnoaimi_Portfolio/blob/5f89a71a8e74e6e99849f59a095209d5049115c3/Excel%20Projects/Portfolio%20Risk%20Management%20-%20Monte%20Carlo%20Simulation.xlsx)
+### Portfolio Risk Management - Monte Carlo Simulation (https://github.com/IsaN2003/Isa_Alnoaimi_Portfolio/blob/5f89a71a8e74e6e99849f59a095209d5049115c3/Excel%20Projects/Portfolio%20Risk%20Management%20-%20Monte%20Carlo%20Simulation.xlsx)
 In the first project, I utilized the Monte Carlo Simulation to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns are used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
 
 <div align="center">
