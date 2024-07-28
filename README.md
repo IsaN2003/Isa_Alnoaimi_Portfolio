@@ -15,7 +15,7 @@ The weights of the selected stocks in the portfolio were optimized by using hist
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4cfa7ee8-1869-4a12-a20d-a0a3249947e9" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<div style="position: relative; top: 50px;">
+<div style="position: relative; top: 10px;">
   <img src="https://github.com/user-attachments/assets/c1590f3d-7511-409e-ab21-88f960b3bf0b425" width="45%">
 </p>
 </div>
