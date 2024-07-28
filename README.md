@@ -8,7 +8,7 @@ In the first project, I utilized the Monte Carlo Simulation to mathematically se
 In the second project, I optimized the weights of the selected stocks in the portfolio by using historical data and statisitcal tools. By determining the optimal weights of the stocks using the solver feature in Excel, the standard deviation (risk) was minimzed and the expected return and sharpe ratio of the portfolio were maximized. To further prove that the portfolio was optimized, random weights were assigned to each stock in the portfolio 10,000 times. Next, the portfolios' respective standard deviations and expected returns were calculated. Finally, an efficient frontier was constructed to visualize the 10,000 portfolios risk to reward possibilites. 
 
 
-<img src=[Screenshot 2024-07-28 132300](https://github.com/user-attachments/assets/6ba54934-fe61-498c-b942-bb8da8831cdd)width="100" height="100">![Screenshot 2024-07-28 132219](https://github.com/user-attachments/assets/efc71cae-924a-4ba1-9c0e-1482e9ca820e)
+<img src="https://github.com/user-attachments/assets/6ba54934-fe61-498c-b942-bb8da8831cdd" width="100" height="100">![Screenshot 2024-07-28 132219](https://github.com/user-attachments/assets/efc71cae-924a-4ba1-9c0e-1482e9ca820e)
 
 
 ### Queueing System Simulation
