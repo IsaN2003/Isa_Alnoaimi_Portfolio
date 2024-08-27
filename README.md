@@ -19,6 +19,9 @@ The weights of the selected stocks in the portfolio were optimized by using hist
 </p>
 
 ### Supply Chain - Order Quantity and Reorder Point Optimization
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/b1ff7226-a98d-4b0e-a3bc-7c63983bd985" width="50%">
+</div>
 
 ## Python Projects
 ### Quality Engineering - Quality Control Chart
