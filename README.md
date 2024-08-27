@@ -18,6 +18,8 @@ The weights of the selected stocks in the portfolio were optimized by using hist
   <img src="https://github.com/user-attachments/assets/c1590f3d-7511-409e-ab21-88f960b3bf0b425" width="52.5%">
 </p>
 
+### Supply Chain-Order Quantity and Reorder Point Optimization
+
 ## Python Projects
 ### Quality Control Chart
 A statisitical analysis was conducted on a SME construction company which faced an issue with their five-day concrete drying process. To identify the issue behind this process, a quality control chart was employed to provide a visual representation of the variation within the system by identifying the control limits of the data. It was concluded that when the weather was at its highest during the year, the concrete developed the greatest number of cracks. Furthermore, due to the human error caused by the system's lack of instruction to the laborers in the concrete drying process, the number of cracks on the concrete increased; hence, increasing the overall costs of the projects. 
