@@ -1,12 +1,12 @@
 # Isa_Alnoaimi_Portfolio
 ## Python Projects
-### Correlation Analysis of S&P 500 Sector ETFs
+### Correlation Analysis of the S&P 500 Sector ETFs
 SOON
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
 SOON
 ## Excel Projects
-### A Statistical Approach to Setting Stop Loss and Take Profit Levels
-The Monte Carlo simulation was utilized to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
+### A Statistical Approach to Setting Stop-Loss and Take-Profit Levels
+The Monte Carlo simulation was utilized to mathematically set stop-loss and take-profit levels for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop-loss and take-profit levels. Finally, the data was visualized by creating a normal distribution graph for each stock.
 
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/04d47a50-8b3b-43c3-9528-0d64946966fb" width="50%">
