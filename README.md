@@ -2,7 +2,7 @@
 Welcome to my project portfolio! I am an Industrial Engineering student and an aspiring Data Analyst who seeks to continuously learn and grow. 
 ## Excel Projects
 ### Portfolio Risk Management - Stop Loss and Take Profit Orders
-The Monte Carlo Simulation was utilized to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
+The Monte Carlo simulation was utilized to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
 
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/04d47a50-8b3b-43c3-9528-0d64946966fb" width="50%">
@@ -19,6 +19,7 @@ The weights of the selected stocks in the portfolio were optimized by using hist
 </p>
 
 ### Supply Chain - Order Quantity and Reorder Point Optimization
+The optimal order quantity and reorder point of an inventory were identified by utilizing the Monte Carlo simulation and scenario analysis. A 28 day demand forecast was constructed by utilizing probabilistic assumptions based on the inputs set in the model to determine the total cost (holding cost + stockout cost + order cost) incurred by the respective order quantity and reorder point. To ensure the accuracy of the results that were obtained by the probabilistic assumptions, a Monte Carlo simulation was run 300 times to determine the average total cost of the model. Next, a scenario analysis was conducted to identify the total cost incurred by different order quantities and reorder points. Finally, the order quantity and reorder point that yielded the lowest total cost based on constraints were deemed as optimal.
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/b1ff7226-a98d-4b0e-a3bc-7c63983bd985" width="50%">
 </div>
