@@ -1,6 +1,6 @@
 # Isa_Alnoaimi_Portfolio
 ## Python Projects
-### Correlation Analysis of S&P 500 Sector Indices
+### Correlation Analysis of S&P 500 Sector ETFs
 SOON
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
 SOON
