@@ -1,5 +1,4 @@
 # Isa_Alnoaimi_Portfolio
-Welcome to my project portfolio! I am an Industrial Engineering student and an aspiring Data Analyst who seeks to continuously learn and grow. 
 ## Excel Projects
 ### Portfolio Risk Management - Stop Loss and Take Profit Orders
 The Monte Carlo simulation was utilized to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
