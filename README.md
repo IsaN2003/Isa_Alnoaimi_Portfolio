@@ -1,4 +1,5 @@
 # Isa_Alnoaimi_Portfolio
+Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to dive into any project in the Python and Excel folders.
 ## Python Projects
 ### Correlation Analysis of the S&P 500 Sector ETFs
 SOON
