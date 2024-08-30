@@ -1,4 +1,14 @@
 # Isa_Alnoaimi_Portfolio
+## Python Projects
+### Quality Engineering - Quality Control Chart
+A statisitical analysis was conducted on a SME construction company which faced an issue with their five-day concrete drying process. To identify the issue behind this process, a quality control chart was employed to provide a visual representation of the variation within the system by identifying the control limits of the data. It was concluded that when the weather was at its highest during the year, the concrete developed the greatest number of cracks. Furthermore, due to the human error caused by the system's lack of instruction to the laborers in the concrete drying process, the number of cracks on the concrete increased; hence, increasing the overall costs of the projects. 
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/c5bcb2c8-96af-4f43-9a6f-162ce44c470c" width="80%">
+</div>
+
+### Quant Finance - Correlation Analysis of S&P 500 Sector Indices
+
+### Quant Finance - Value at Risk (VaR) Estimation through Monte Carlo Simulation
 ## Excel Projects
 ### Portfolio Risk Management - Stop Loss and Take Profit Orders
 The Monte Carlo simulation was utilized to mathematically set stop losses and take profits for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop loss and take profit. Finally, the data was visualized by creating a normal distribution graph for each stock.
@@ -23,9 +33,3 @@ The optimal order quantity and reorder point of an inventory were identified by 
 	<img src="https://github.com/user-attachments/assets/b1ff7226-a98d-4b0e-a3bc-7c63983bd985" width="50%">
 </div>
 
-## Python Projects
-### Quality Engineering - Quality Control Chart
-A statisitical analysis was conducted on a SME construction company which faced an issue with their five-day concrete drying process. To identify the issue behind this process, a quality control chart was employed to provide a visual representation of the variation within the system by identifying the control limits of the data. It was concluded that when the weather was at its highest during the year, the concrete developed the greatest number of cracks. Furthermore, due to the human error caused by the system's lack of instruction to the laborers in the concrete drying process, the number of cracks on the concrete increased; hence, increasing the overall costs of the projects. 
-<div align="center">
-	<img src="https://github.com/user-attachments/assets/c5bcb2c8-96af-4f43-9a6f-162ce44c470c" width="80%">
-</div>
