@@ -6,7 +6,7 @@ SOON
 <p align="left">
 	<img src="https://github.com/user-attachments/assets/f3c200e3-f88b-47eb-9c70-ec116c4d1fb2"width="57%"  height="250px">
 &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="40%">
+	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="38.5%">
 </p>
 
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
