@@ -1,10 +1,10 @@
 # Isa_Alnoaimi_Portfolio
 Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to dive into any project in the Python and Excel folders.
 ## Python Projects
-### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
+### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ET
 SOON
 <div align="center">
-	<img src="https://github.com/user-attachments/assets/7f140446-87e1-438d-a69d-56cedf2b8af7">
+	<img src="https://github.com/user-attachments/assets/493254ab-53c8-4b92-aa65-5464fd0ddf70">
 </div>
 <div align="left">
 	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" widht="65%">
