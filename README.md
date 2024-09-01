@@ -3,10 +3,10 @@ Welcome to my portfolio! Below is a summary of the Python and Excel projects I c
 ## Python Projects
 ### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a comprehensive understanding of the sector ETFs trends and their impact on the S&P 500. To achieve that, a correlation matrix was constructed to analyze the relationships between the returns of each sector. Interestingly, the S&P 500 Sector ETFs were positively correlated which can be explained by 
-<p align="left">
-	<img src="https://github.com/user-attachments/assets/caac22f9-b46c-4a6d-beb5-92cfde049f50"width="45%">
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/caac22f9-b46c-4a6d-beb5-92cfde049f50"width="40%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/user-attachments/assets/94f39efa-ddb1-4323-9822-e3ad7a87baf6" width="45%">
+	<img src="https://github.com/user-attachments/assets/94f39efa-ddb1-4323-9822-e3ad7a87baf6" width="40%">
 </p>
 
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
