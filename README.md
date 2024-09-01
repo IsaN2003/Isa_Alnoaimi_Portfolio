@@ -4,7 +4,7 @@ Welcome to my portfolio! Below is a summary of the Python and Excel projects I c
 ### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 SOON
 <div align="left">
-	<img src="https://github.com/user-attachments/assets/493254ab-53c8-4b92-aa65-5464fd0ddf70"width="65%">
+	<img src="https://github.com/user-attachments/assets/493254ab-53c8-4b92-aa65-5464fd0ddf70"width="60%">
 </div>
 <div align="right">
 	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="40%">
