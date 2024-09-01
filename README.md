@@ -6,7 +6,7 @@ The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a compre
 <p align="left">
 	<img src="https://github.com/user-attachments/assets/14a31a96-e04a-4105-874c-9b6ca993eee2"width="55%" height="275px">
 &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="38.5%">
+	<img src="https://github.com/user-attachments/assets/94f39efa-ddb1-4323-9822-e3ad7a87baf6" width="38.5%">
 </p>
 
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
