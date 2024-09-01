@@ -3,8 +3,12 @@ Welcome to my portfolio! Below is a summary of the Python and Excel projects I c
 ## Python Projects
 ### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 SOON
+<div align="left">
+	<img src="https://github.com/user-attachments/assets/7f140446-87e1-438d-a69d-56cedf2b8af7" width="50%">
+</div>
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
 SOON
+
 ## Excel Projects
 ### A Statistical Approach to Setting Stop-Loss and Take-Profit Levels
 The Monte Carlo simulation was utilized to mathematically set stop-loss and take-profit levels for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop-loss and take-profit levels. Finally, the data was visualized by creating a normal distribution graph for each stock.
