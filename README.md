@@ -6,7 +6,7 @@ SOON
 <div align="left">
 	<img src="https://github.com/user-attachments/assets/493254ab-53c8-4b92-aa65-5464fd0ddf70"width="56%">
 </div>
-<div align="right">
+<div align="">
 	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="20%">
 </div>
 
