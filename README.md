@@ -4,7 +4,7 @@ Welcome to my portfolio! Below is a summary of the Python and Excel projects I c
 ### [Correlation Analysis of the S&P 500 Sector ETFs](Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a comprehensive understanding of the sector ETFs trends and their impact on the S&P 500. To achieve that, a correlation matrix was constructed to analyze the relationships between the changes in adjusted closing prices of each sector. Interestingly, the S&P 500 Sector ETFs were positively correlated which can be explained by 
 <p align="left">
-	<img src="https://github.com/user-attachments/assets/8abde37f-5449-4cbe-99e2-320a848bfc1d"width="57.5%">
+	<img src="https://github.com/user-attachments/assets/8abde37f-5449-4cbe-99e2-320a848bfc1d"width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/user-attachments/assets/52a3c12b-b837-4a77-9904-c37c92f5bf60" width="38.5%">
 </p>
