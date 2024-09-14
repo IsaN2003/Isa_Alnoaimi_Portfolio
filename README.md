@@ -16,7 +16,7 @@ The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a compre
 </p>
 
 ## Excel Projects
-### A Statistical Approach to Setting Stop-Loss and Take-Profit Levels
+### [A Statistical Approach to Setting Stop-Loss and Take-Profit Levels](Excel%20Projects/A%20Statistical%20Approach%20to%20Setting%20Stop-Loss%20and%20Take-Profit%20Levels.xlsx)
 The Monte Carlo simulation was utilized to mathematically set stop-loss and take-profit levels for the stocks which were selected in the portfolio. This simulation is a risk management tool which generates a total of 1000 random returns of a stock based on the mean and standard deviation of its two year daily returns. Then, the one percentile and 99 percentile of the randomly generated returns were used to set the stop-loss and take-profit levels. Finally, the data was visualized by creating a normal distribution graph for each stock.
 
 <div align="center">
@@ -24,7 +24,7 @@ The Monte Carlo simulation was utilized to mathematically set stop-loss and take
 </div>
 
 
-### Portfolio Risk Management: Portfolio Optimization
+### [Portfolio Risk Management - Portfolio Optimization](Excel%20Projects/Portfolio%20Risk%20Management-%20Portfolio%20Optimization.xlsx)
 The weights of the selected stocks in the portfolio were optimized by using historical data and statisitcal tools. By determining the optimal weights of the stocks using the solver feature in Excel, the standard deviation (risk) was minimzed and the expected return and sharpe ratio of the portfolio were maximized. To further prove that the portfolio was optimized, random weights were assigned to each stock in the portfolio 10,000 times. Next, the portfolios' respective standard deviations and expected returns were calculated. Finally, an efficient frontier was constructed to visualize the 10,000 portfolios' risk to reward possibilites. 
 
 <p align="center">
