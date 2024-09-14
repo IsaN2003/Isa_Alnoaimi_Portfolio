@@ -10,7 +10,7 @@ The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a compre
 </p>
 
 ### Value at Risk (VaR) Estimation through Monte Carlo Simulation
-The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30% bonds, and 20% commodities over a 10-day period was identified. The log returns of each underlying asset were calculated to construct a covariance matrix, which was essential for identifying the portfolio's standard deviation. A Monte Carlo simulation was run 10,000 times to assess the range of the portfolio's potential losses and gains based on specific inputs. Next, a confidence interval of 0.95 was utilized, indicating that there is a 95% confidence that the portfolio losses will not exceed $x over the 10-day period. Finally, the Monte Carlo simulation was plotted to visualize the VaR.
+The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30% bonds, and 20% commodities over a 10-day period was identified. The log returns of each underlying asset were calculated to construct a covariance matrix, which was essential for identifying the portfolio's standard deviation. A Monte Carlo simulation was run 10,000 times to assess the range of the portfolio's potential losses and gains based on specific inputs. Next, a confidence interval of 0.95 was utilized, indicating that there is a 95% confidence that the portfolio losses will not exceed -$72,622 over the 10-day period. Finally, the Monte Carlo simulation was plotted to visualize the VaR.
 
 ## Excel Projects
 ### A Statistical Approach to Setting Stop-Loss and Take-Profit Levels
