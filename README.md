@@ -24,7 +24,7 @@ The Monte Carlo simulation was utilized to mathematically set stop-loss and take
 </div>
 
 
-### [Portfolio Risk Management - Portfolio Optimization](Excel%20Projects/Portfolio%20Risk%20Management-%20Portfolio%20Optimization.xlsx)
+### [Portfolio Risk Management-Portfolio Optimization](Excel%20Projects/Portfolio%20Risk%20Management-%20Portfolio%20Optimization.xlsx)
 The weights of the selected stocks in the portfolio were optimized by using historical data and statisitcal tools. By determining the optimal weights of the stocks using the solver feature in Excel, the standard deviation (risk) was minimzed and the expected return and sharpe ratio of the portfolio were maximized. To further prove that the portfolio was optimized, random weights were assigned to each stock in the portfolio 10,000 times. Next, the portfolios' respective standard deviations and expected returns were calculated. Finally, an efficient frontier was constructed to visualize the 10,000 portfolios' risk to reward possibilites. 
 
 <p align="center">
