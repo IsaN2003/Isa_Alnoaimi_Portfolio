@@ -7,7 +7,7 @@ The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30
 	<img src="https://github.com/user-attachments/assets/c779618c-bf7f-42e4-ba91-d8c9a1a9be46" width="50%">
 </div>
 
-### [Correlation Analysis of the S&P 500 Sector ETFs](CPython%20Projects/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
+### [Correlation Analysis of the S&P 500 Sector ETFs](Python%20Projects/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a comprehensive understanding of the sector ETFs trends and their impact on the S&P 500. A correlation matrix was constructed to analyze the relationships between the returns of each sector. Interestingly, the S&P 500 Sector ETFs were positively correlated which can be explained by the fact that the ETFs replicate the S&P 500's movements as they hold the same underlying assets. This correlation also reflects on how the sectors' performance is affected by macroeconomic factors and market sentiment. The significant price decline during COVID, followed by the market recovery driven by macroeconomic factors and market sentiment, as shown in the line graph below, further emphasizes this relationship.
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/caac22f9-b46c-4a6d-beb5-92cfde049f50"width="42.5%">
