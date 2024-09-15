@@ -1,7 +1,7 @@
 # Isa_Alnoaimi_Portfolio
 Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to dive into any project in the Python and Excel folders.
 ## Python Projects
-### [Value at Risk (VaR) Estimation through Monte Carlo Simulation](Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
+### [Value at Risk (VaR) Estimation through Monte Carlo Simulation](Python%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
 The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30% bonds, and 20% commodities over a 10-day period was identified. The log returns of each underlying asset were calculated to construct a covariance matrix, which was essential for identifying the portfolio's standard deviation. A Monte Carlo simulation was run 10,000 times to assess the range of the portfolio's potential losses and gains based on specific inputs. Next, a confidence interval of 0.95 was utilized, indicating that there is a 95% confidence that the portfolio losses will not exceed -$72,622 over the 10-day period. Finally, the Monte Carlo simulation was plotted to visualize the VaR.
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/c779618c-bf7f-42e4-ba91-d8c9a1a9be46" width="50%">
