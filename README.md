@@ -30,7 +30,7 @@ The weights of the selected stocks in the portfolio were optimized by using hist
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4cfa7ee8-1869-4a12-a20d-a0a3249947e9" width="34%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="![image](https://github.com/user-attachments/assets/14add84e-93e2-4faa-843c-0d6409fd0129)" width="52.5%">
+  <img src="https://github.com/user-attachments/assets/14add84e-93e2-4faa-843c-0d6409fd0129" width="52.5%">
 </p>
 
 ### [Optimizing Inventory Management - Identifying Order Quantity and Reorder Points](Excel%20Projects/Optimizing%20Inventory%20Management%20-%20Identifying%20Order%20Quantity%20and%20Reorder%20Points.xlsx)
