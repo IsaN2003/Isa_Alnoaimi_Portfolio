@@ -33,7 +33,7 @@ The weights of the selected stocks in the portfolio were optimized by using hist
   <img src="https://github.com/user-attachments/assets/e79434d2-34e8-41c1-af16-50b3052b7228" width="55%">
 </p>
 
-### [Optimizing Inventory Management - Identifying Order Quantity and Reorder Points](Excel%20Projects/Optimizing%20Inventory%20Management%20-%20Identifying%20Order%20Quantity%20and%20Reorder%20Points.xlsx)
+### [Optimizing Inventory Management - Identifying Order Quantity and Reorder Points](Excel%20Projects/Optimizing%20Inventory%20Management%20-%20Identifying%20Order%20Quantity%20and%20Reorder%20Points.pdf)
 The optimal order quantity and reorder point of an inventory were identified by utilizing the Monte Carlo simulation and scenario analysis. A 28 day demand forecast was constructed by utilizing probabilistic assumptions based on the inputs set in the model to determine the total cost (holding cost + stockout cost + order cost) incurred by the respective order quantity and reorder point. To ensure the accuracy of the results that were obtained by the probabilistic assumptions, a Monte Carlo simulation was run 300 times to determine the average total cost of the model. Next, a scenario analysis was conducted to identify the total cost incurred by different order quantities and reorder points. Finally, the order quantity and reorder point that yielded the lowest total cost were deemed as optimal.
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/b1ff7226-a98d-4b0e-a3bc-7c63983bd985" width="50%">
