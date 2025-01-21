@@ -3,9 +3,9 @@ Welcome to my portfolio! Below is a summary of the Python and Excel projects I c
 ## Programming Projects
 ### [Exploring Sampling Techniques to Enhance Credit Card Fraud Detection Accuracy Using Machine Learning (MATLAB)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipyn)
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b04a45cd-a3b4-45d1-a348-9c0320c72bd3" alt="Image 1" width="200" style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/a0471351-6d10-4889-a3f9-bc641b679044" alt="Image 2" width="200" style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/0c09c07e-b937-4446-a4b9-f1d6e1b4cfa0" alt="Image 3" width="200" style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/b04a45cd-a3b4-45d1-a348-9c0320c72bd3" alt="Image 1" width="400" style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/a0471351-6d10-4889-a3f9-bc641b679044" alt="Image 2" width="400" style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/0c09c07e-b937-4446-a4b9-f1d6e1b4cfa0" alt="Image 3" width="400" style="margin: 0 10px;">
 </p>
 
 
