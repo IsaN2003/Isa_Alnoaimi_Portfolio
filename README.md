@@ -2,32 +2,11 @@
 Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to explore any project in the Python and Excel folders, or click on the hyperlinks provided.
 ## Programming Projects
 ### [Exploring Sampling Techniques to Enhance Credit Card Fraud Detection Accuracy Using Machine Learning (MATLAB)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipyn)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Alignment</title>
-    <style>
-        .image-container {
-            display: flex;
-            justify-content: center;
-            gap: 10px; /* Space between images */
-        }
-        img {
-            max-width: 100%; /* Responsive images */
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="image-container">
-        <img src="https://github.com/user-attachments/assets/b04a45cd-a3b4-45d1-a348-9c0320c72bd3" alt="Image 1">
-        <img src="https://github.com/user-attachments/assets/a0471351-6d10-4889-a3f9-bc641b679044" alt="Image 2">
-        <img src="https://github.com/user-attachments/assets/0c09c07e-b937-4446-a4b9-f1d6e1b4cfa0" alt="Image 3">
-    </div>
-</body>
-</html>
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/b04a45cd-a3b4-45d1-a348-9c0320c72bd3" alt="Image 1" width="200">
+    <img src="https://github.com/user-attachments/assets/a0471351-6d10-4889-a3f9-bc641b679044" alt="Image 2" width="200">
+    <img src="https://github.com/user-attachments/assets/0c09c07e-b937-4446-a4b9-f1d6e1b4cfa0" alt="Image 3" width="200">
+</div>
 
 
 ### [Value at Risk (VaR) Estimation through Monte Carlo Simulation (Python)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
