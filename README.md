@@ -2,6 +2,11 @@
 Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to explore any project in the Python and Excel folders, or click on the hyperlinks provided.
 ## Programming Projects
 ### [Exploring Sampling Techniques to Enhance Credit Card Fraud Detection Accuracy Using Machine Learning (MATLAB)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipyn)
+![image](https://github.com/user-attachments/assets/b04a45cd-a3b4-45d1-a348-9c0320c72bd3)
+![image](https://github.com/user-attachments/assets/a0471351-6d10-4889-a3f9-bc641b679044)
+![image](https://github.com/user-attachments/assets/0c09c07e-b937-4446-a4b9-f1d6e1b4cfa0)
+
+
 ### [Value at Risk (VaR) Estimation through Monte Carlo Simulation (Python)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
 The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30% bonds, and 20% commodities over a 10-day period was identified. The log returns of each underlying asset were calculated to construct a covariance matrix, which was essential for identifying the portfolio's standard deviation. A Monte Carlo simulation was run 10,000 times to assess the range of the portfolio's potential losses and gains based on specific inputs. Next, a confidence interval of 0.95 was utilized, indicating that there is a 95% confidence that the portfolio losses will not exceed -$72,622 over the 10-day period. Finally, the Monte Carlo simulation was plotted to visualize the VaR.
 <div align="center">
