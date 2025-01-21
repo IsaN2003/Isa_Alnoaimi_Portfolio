@@ -1,13 +1,13 @@
 # Isa_Alnoaimi_Portfolio
 Welcome to my portfolio! Below is a summary of the Python and Excel projects I created. Feel free to explore any project in the Python and Excel folders, or click on the hyperlinks provided.
-## Python Projects
-### [Value at Risk (VaR) Estimation through Monte Carlo Simulation](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
+## Programming Projects
+### [Value at Risk (VaR) Estimation through Monte Carlo Simulation (Python)](Programming%20Projects/Value%20at%20Risk%20%28VaR%29%20Estimation%20through%20Monte%20Carlo%20Simulation.ipynb)
 The Value at Risk (VaR) of a $1,000,000 portfolio that includes 50% equities, 30% bonds, and 20% commodities over a 10-day period was identified. The log returns of each underlying asset were calculated to construct a covariance matrix, which was essential for identifying the portfolio's standard deviation. A Monte Carlo simulation was run 10,000 times to assess the range of the portfolio's potential losses and gains based on specific inputs. Next, a confidence interval of 0.95 was utilized, indicating that there is a 95% confidence that the portfolio losses will not exceed -$72,622 over the 10-day period. Finally, the Monte Carlo simulation was plotted to visualize the VaR.
 <div align="center">
 	<img src="https://github.com/user-attachments/assets/c779618c-bf7f-42e4-ba91-d8c9a1a9be46" width="50%">
 </div>
 
-### [Correlation Analysis of the S&P 500 Sector ETFs](Programming%20Projects/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
+### [Correlation Analysis of the S&P 500 Sector ETFs (Python)](Programming%20Projects/Correlation%20Analysis%20of%20the%20S%26P%20500%20Sector%20ETFs.ipynb)
 The correlation analysis of the S&P 500 and S&P 500 Sector ETFs offered a comprehensive understanding of the sector ETFs trends and their impact on the S&P 500. A correlation matrix was constructed to analyze the relationships between the returns of each sector. Interestingly, the S&P 500 Sector ETFs were positively correlated which can be explained by the fact that the ETFs replicate the S&P 500's movements as they hold the same underlying assets. This correlation also reflects on how the sectors' performance is affected by macroeconomic factors and market sentiment. The significant price decline during COVID, followed by the market recovery driven by macroeconomic factors and market sentiment, as shown in the line graph below, further emphasizes this relationship.
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/caac22f9-b46c-4a6d-beb5-92cfde049f50"width="42.5%">
